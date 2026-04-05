@@ -1,6 +1,7 @@
 This license covers the wireless regulatory database (v. wireless-regdb-2026.02.04)
-in _gokrazy (regulatory.db and regulatory.db.p7s), which were copied from https://www.kernel.org/pub/software/network/wireless-regdb/
-and are covered by the following license, copied from the tarball:
+included in `extrafiles.tar` (lib/firmware/regulatory.db, lib/firmware/regulatory.db.p7s),
+which was copied from https://www.kernel.org/pub/software/network/wireless-regdb/,
+and is covered by the following license (included in the original tarball):
 
 Copyright (c) 2008, Luis R. Rodriguez <mcgrof@gmail.com>
 Copyright (c) 2008, Johannes Berg <johannes@sipsolutions.net>
